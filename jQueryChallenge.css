@@ -1,0 +1,22 @@
+body {
+    background-color: peachpuff;
+    text-align: center;
+    border: double 30px brown;
+}
+
+h1 {
+    font-size: 100px; 
+    color: saddlebrown;
+    font-family: cursive;
+}
+
+h2 {
+    font-size: 30px;
+    color: slategrey;
+
+}
+
+button{
+    color: saddlebrown;
+    font-size: 30px;
+}
